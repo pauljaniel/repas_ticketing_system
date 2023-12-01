@@ -9,3 +9,9 @@
 .table-hover{
     --bs-table-hover-bg: aqua;
 }
+
+.bottom-right-toast {
+    position: fixed;
+    bottom: 3rem;
+    right: 1rem;
+}
